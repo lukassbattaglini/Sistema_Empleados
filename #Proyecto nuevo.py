@@ -1,4 +1,4 @@
-# Sistema de gestion de empleados
+
 # Proyecto nuevo
 import json
 import os
