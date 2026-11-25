@@ -9,3 +9,4 @@ Proyecto desarrollado en Python para administrar empleados.
 - Modificar sueldos.
 - Eliminar empleados.
 - Guardar información mediante JSON.
+Versión principal del proyecto.
