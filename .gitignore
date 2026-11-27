@@ -1,0 +1,6 @@
+# Datos de empleados
+empleados.json
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
